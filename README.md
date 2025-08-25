@@ -1,11 +1,14 @@
-## 🏡 House Price Prediction (End-to-End ML Project)
+# 🏡 House Price Prediction (End-to-End ML Project)
 
 
-# 📌 Project Overview
+## App Link : https://housepriceprediction07.streamlit.app/
+
+
+## 📌 Project Overview
 
 This project is an End-to-End Machine Learning application that predicts house prices based on features like size (m²) and number of bedrooms.
 
-# It covers the full ML lifecycle:
+## It covers the full ML lifecycle:
 
 - Data preprocessing
 
@@ -15,7 +18,7 @@ This project is an End-to-End Machine Learning application that predicts house p
 
 - Interactive Streamlit frontend for user input and predictions
 
-# 🚀 Features
+## 🚀 Features
 
 - 📊 Predict house price in ₹ (thousands) based on input features
 
@@ -27,7 +30,7 @@ This project is an End-to-End Machine Learning application that predicts house p
 
 - 🖥️ Clean, user-friendly UI
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python 🐍
 
@@ -39,7 +42,7 @@ This project is an End-to-End Machine Learning application that predicts house p
 
 - Matplotlib (Visualization)
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 E2E_Project/
 ├── price_prediction.ipynb   
@@ -49,7 +52,7 @@ E2E_Project/
 ├── README.md                
               
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Clone this repository:
 
@@ -70,7 +73,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-# 🖥️ Usage
+## 🖥️ Usage
 
 - Enter the house size (m²)
 
@@ -82,7 +85,7 @@ streamlit run app.py
 
 
 
-# 📊 Model Performance
+## 📊 Model Performance
 
 - Algorithm: Multiple Linear Regression
 
@@ -94,7 +97,7 @@ streamlit run app.py
 
 - MSE (Mean Squared Error): Low
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 - 🔹 Streamlit App
 
